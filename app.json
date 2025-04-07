@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Ensure your session Id starts with the word CLOUD-AI~$",
       "required": true,
-      "value": ""
+      "value": "CLOUD-AI~9BpHUYYa#7ERQRlbfGtz_tkUcOUrASTuRiTFi7kMpunm4ME8TZQU"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
@@ -20,32 +20,32 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "BRUCE BERA"
+      "value": "Young2btc"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "254743982206"
+      "value": "2349033817902"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_TYPING": {
       "description": "Enable bot to show typing status (true/false)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "Enable bot to show recording status (true/false)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "Keep bot always online (true/false)",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_REACT": {
       "description": "Enable bot to auto-react to messages (true/false)",
@@ -55,7 +55,7 @@
     "ANTI_DELETE": {
       "description": "Enable anti-delete feature (true/false)",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enable bot to view statuses (true/false)",
